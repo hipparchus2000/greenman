@@ -1,0 +1,9 @@
+del *.log
+del *.elg
+del *.cmt
+del *.set
+del *.dat
+del *.sta
+del *.sto
+del *.gim
+dir /w
